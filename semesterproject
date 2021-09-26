@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+                                              
+<title>1740893</title>
+<style>
+    li {list-style-position: inside;}
+  </style>
+<body style="background-color:burlywood">
+    
+
+
+   <center><h1> CPIT 405 Semester Project</h1></center> 
+    <center>&lt;Creating webpage using CSS title> <br><br>
+ &lt;Team Member Names></center>
+
+   
+       
+            <ol>
+               <strong> <li style="text-align: center">Abdullah saber</li></strong>
+               <strong> <li style="text-align: center">Unknown member</li></strong>
+               <strong> <li style="text-align: center">Unknown member</li></strong>
+              </ol>
+        <center><strong>Abstract</strong></center>
+
+        <center>&lt;Abstract text<</center>
+<pre><strong><h3> Importance References</strong></h3>
+    
+
+ <i>[1]https://www.w3schools.com/
+ [2]KAU Blackboard</i>
+
+
+ <a href="homepage.html">
+<img src="home.png" alt="homepage"style="width:77px;height:77px;">
+</a>
+
+
+
+<strong>Go back to homepage</strong></pre>
+</body>
+</html>
